@@ -1,11 +1,3 @@
-[General]
-dns-server = system,114.114.114.114,112.124.47.27,8.8.8.8,8.8.4.4
-bypass-system = true
-ipv6 = false
-update-url = https://wy.ydlrqx.com/WangYiMusic.conf
-
-
-[Rule]
 DOMAIN-SUFFIX,music.163.com,PROXY
 DOMAIN-SUFFIX,interface.music.163.com,PROXY
 DOMAIN-SUFFIX,interface3.music.163.com,PROXY
